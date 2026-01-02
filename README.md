@@ -28,4 +28,4 @@ The design was ported to Verilog using a structural (gate-level) approach to mir
 <img width="614" height="232" alt="image" src="https://github.com/user-attachments/assets/5e28b258-e320-4408-8764-5c253d14ddee" />
 
 
-This project was created as a final project for TCES 230 (Logic Design) at the University of Washington Tacoma
+This project was created as a final project for TCES 230 (Logic Design) at the University of Washington Tacoma by Jaiden Stipp
